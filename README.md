@@ -22,8 +22,8 @@ Prompts that say "be careful" don't change agent behavior. **Gates do**: phases 
 
 ## Want the full set?
 
-The **[Claude Code Power Pack](https://teasipper06.gumroad.com/l/claude-code-power-pack)** has 8 skills + 2 tested safety hooks:
+The **[Claude Code Power Pack](https://teasipper06.gumroad.com/l/claude-code-power-pack)** has 10 skills + 2 tested safety hooks:
 
-`test-first` (TDD with proof-of-red) · `pr-narrative` · `migration-guard` (lock/backfill analysis) · `dead-code-sweep` · `perf-pass` (measurement-first) · `onboard-tour` · plus hooks that block secrets from being written to disk and force-pushes to protected branches.
+`design-review` (the taste gate: competing structures + argue against your own pick) · `house-rules` (your CLAUDE.md as binding, cited constraints — and it flags doc rot) · `test-first` (TDD with proof-of-red) · `pr-narrative` · `migration-guard` · `dead-code-sweep` · `perf-pass` · `onboard-tour` · plus hooks that block secrets from being written to disk and force-pushes to protected branches.
 
 $24, lifetime updates, 30-day refund → https://teasipper06.gumroad.com/l/claude-code-power-pack
